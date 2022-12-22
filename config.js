@@ -18,7 +18,7 @@
 //┃SOME ENCRYPTED FILES
 //┃
 //┃THANKS FOR CHOOSING 𝗘𝗔𝗭𝗬 𝗕𝗢𝗧 𝗠𝗗2
-//┃THANKS TO DIKA ARDNT
+//┃THANKS TO PANASHE KANJANDA
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 const fs = require('fs')
